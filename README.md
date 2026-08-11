@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ragul Sathiryan</h1>
+<h1 align="center">👋 Hi, I'm Ragul</h1>
 <h3 align="center">Aerospace Engineering Student • Embedded Systems • AI & TinyML</h3>
 
 <p align="center">
